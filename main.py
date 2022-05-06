@@ -29,3 +29,5 @@ email.HTMLBody = f"""
 
 email.Send()
 print("Email Enviado")
+
+# creditos total ao hashtag programador por me ajudar disponibilizar e compartilhar esse codigo com vcs
